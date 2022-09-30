@@ -18,7 +18,7 @@ function App() {
         <h3 className="tag-line">Frontend Developer</h3>
         <p className="my-website">www.airIdas.co.uk</p>
         <div className="social-buttons">
-        <a href="mailto:"><button className="email"><img src={email} alt="email" height = "10px"/>Email</button></a>
+        <a href="mailto:airidas.kirstukas@gmail.com"><button className="email"><img src={email} alt="email" height = "10px"/>Email</button></a>
         <a href="https://www.linkedin.com/in/airidas-kirstukas-34256a18a/"><button className="Linkedin"><img src={link} alt="linkedin" height = "10px"/>LinkedIn</button></a>
         </div>
         <h2 className="subheadline">About</h2>
